@@ -1,0 +1,7 @@
+C:\Users\leonardo.plopes\source\repos\Atividades 01.10\Atividades 01.10\obj\Debug\Atividades 01.10.csproj.AssemblyReference.cache
+C:\Users\leonardo.plopes\source\repos\Atividades 01.10\Atividades 01.10\obj\Debug\Atividades 01.10.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.plopes\source\repos\Atividades 01.10\Atividades 01.10\bin\Debug\Atividades 01.10.exe.config
+C:\Users\leonardo.plopes\source\repos\Atividades 01.10\Atividades 01.10\bin\Debug\Atividades 01.10.exe
+C:\Users\leonardo.plopes\source\repos\Atividades 01.10\Atividades 01.10\bin\Debug\Atividades 01.10.pdb
+C:\Users\leonardo.plopes\source\repos\Atividades 01.10\Atividades 01.10\obj\Debug\Atividades 01.10.exe
+C:\Users\leonardo.plopes\source\repos\Atividades 01.10\Atividades 01.10\obj\Debug\Atividades 01.10.pdb
